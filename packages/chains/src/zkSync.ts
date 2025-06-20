@@ -1,8 +1,8 @@
 import { Chain } from './types'
 
-export const zkSync = {
+export const ZKsync = {
   id: 324,
-  name: 'zkSync Era',
+  name: 'ZKsync Era',
   network: 'zksync-era',
   nativeCurrency: {
     decimals: 18,
